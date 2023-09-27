@@ -1,4 +1,4 @@
-/* esp01s-device-manager.ino
+/* hsh-device-esp01s.ino
  *           _  _               ___                _   _  _               
  * __ ___ __| || |___ _ __  ___/ __|_ __ _____ ___| |_| || |___ _ __  ___ 
  * \ \ / '_ \ __ / _ \ '  \/ -_)__ \ V  V / -_) -_)  _| __ / _ \ '  \/ -_)
@@ -11,7 +11,7 @@
  * Author.....: Alessandro Fraschetti (mail: gos95@gommagomma.net)
  * Target.....: ESP-01S board
  * Version....: 1.0 2023/03/29
- * Description: ESP-01s device manager firmware
+ * Description: HomeSweetHome device manager firmware for ESP-01s board
  * URL........: https://github.com/gom9000/xp-home-sweet-home
  * License....: MIT License
  */

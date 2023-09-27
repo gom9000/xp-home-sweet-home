@@ -5,7 +5,8 @@ Home domotic modules experience.
 
 
 ## Modules
-- [ESP-01s Device Manager](esp01s-device-manager) - 
+- [HomeSweetHome Device Manager for ESP-01s](hsh-device-esp01s) -
+- [HomeSweetHome low-power Device Manager for ESP-01s](hsh-device-esp01s-lp) -
 
 
 ## Changes
